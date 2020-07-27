@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "print(hi)",
+    "created" : 1595805350043.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "227685710",
+    "id" : "8186E2DD",
+    "lastKnownWriteTime" : 1595809850,
+    "last_content_update" : 1595809850665,
+    "path" : "~/notlinkedyet/hi.R",
+    "project_path" : "hi.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
